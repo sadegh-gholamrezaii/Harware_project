@@ -10,7 +10,12 @@ Note that as it will be said in the target section, our goal is to show the micr
 # Tools:
 
 <li>
-<ul>hhh</ul>   
+  <ul>esp8266      ->  WIFI </ul>
+  <ul>ssd1306 oled ->  monitor</ul>
+  <ul>ttp224       ->  keyboard</ul>
+  <ul>LED</ul>
+  <ul>RES 1k</ul>
+  <ul>board</ul>
 </li>
 
 # ide : Thonny
