@@ -1,7 +1,4 @@
-# Harware_project
-
-#Important note :
-
+# Important note :
 Note that as stated in the target section, our goal is to show the micro pins received commands from the server and the LEDs are turned on and off in the desired order that we tell the server on the micro board, and the text in We set the field on the server and show it on the screen and also change the text, so if we use a health sensor module (such as a blood pressure monitor) instead of LEDs and a screen, it can be controlled and its data collected because we have demonstrated the ability to control bases through the server in this project.
 
 #Programmed with:  MicroPython language
