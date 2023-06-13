@@ -9,14 +9,14 @@ Note that as it will be said in the target section, our goal is to show the micr
 
 # Tools:
 
-<li>
-  <ul>esp8266      ->  WIFI </ul>
-  <ul>ssd1306 oled ->  monitor</ul>
-  <ul>ttp224       ->  keyboard</ul>
-  <ul>LED</ul>
-  <ul>RES 1k</ul>
-  <ul>board</ul>
-</li>
+<ul>
+  <li>esp8266      ->  WIFI </li>
+  <li>ssd1306 oled ->  monitor</li>
+  <li>ttp224       ->  keyboard</li>
+  <li>LED</li>
+  <li>RES 1k</li>
+  <li>board</li>
+</ul>
 
 # ide : Thonny
 ![ide](./img/Thonny_ide_main.png)
