@@ -1,5 +1,5 @@
 # Important note :
-Note that as it will be said in the target section, our goal is to show the micro pins received commands from the server and the LEDs turn on and off with the desired order that we tell the server on the micro board, and the text that In the field on the server, we set it to show on the screen and also change the text, so if we use a health sensor module (such as a blood pressure monitor) instead of LEDs and a screen, it can be controlled and the data Collected it because we have shown the ability to control bases through the server in this project.
+Note that as it will be said in the target section, our goal is to show the micro-contoller-pins received commands from the server and the LEDs turn on and off with the desired order that we tell the server on the micro board, and the text that In the field on the server, we set it to show on the screen and also change the text, so if we use a health sensor module (such as a blood pressure monitor) instead of LEDs and a screen, it can be controlled and the data Collected it because we have shown the ability to control bases through the server in this project.
 
 #Programmed with:  MicroPython language
 
