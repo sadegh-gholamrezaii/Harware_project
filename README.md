@@ -8,8 +8,11 @@ Note that as it will be said in the target section, our goal is to show the micr
 ![pico-pinout-datasheet](./img/pico-pinout-datasheet.svg)
 
 # Tools:
+
+<li>
 <ul>hhh</ul>   
-   
+</li>
+
 # ide : Thonny
 ![ide](./img/Thonny_ide_main.png)
 
