@@ -29,7 +29,7 @@ The purpose of this project is to run the main code on the Raspberry Pi Pico and
 
 <li>1.command:</li>
 
-![ide](./img/server_command1.jpg)
+![ide](./img/server_command1.png)
 
 <li>1.run:</li>
 
@@ -37,7 +37,7 @@ The purpose of this project is to run the main code on the Raspberry Pi Pico and
 
 <li>2.command:</li>
 
-![ide](./img/server_command2.jpg)
+![ide](./img/server_command2.png)
 
 <li>2.run:</li>
 
