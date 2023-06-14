@@ -23,4 +23,15 @@ Note that as it will be said in the target section, our goal is to show the micr
 
 # Target:
 The purpose of this project is to run the main code on the Raspberry Pi Pico and connect it to other hardware such as the esp8266 Wi-Fi module and the ssd1306 display module and several LEDs to show how it can be commanded by connecting to a took Therefore, in this project, the goal is to show the ability to control the microcontroller through Wi-Fi and data transmission
+# base:
+![ide](./img/0.png)
+# examples:
+<li>1.command:</li>
+![ide](./img/server_commandd1.png)
+<li>1.run:</li>
+![ide](./img/1.png)
 
+<li>2.command:</li>
+![ide](./img/server_commandd2.png)
+<li>2.run:</li>
+![ide](./img/2.png)
